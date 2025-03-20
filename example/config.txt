@@ -1,0 +1,2 @@
+Prefix plugins/RFC/example/
+Plugin RFC inputfile parameters.txt outputfile output.png
